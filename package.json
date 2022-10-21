@@ -1,0 +1,16 @@
+{
+"name": "superslotqueenslot",
+"theme": "superslot queenslot",
+"version": "6.3.9",
+"description": "superslot queenslot สมัครเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"superslot queenslot",
+"superslot queenslot เครดิตฟรี",
+"superslot queenslot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/superslotqueenslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
